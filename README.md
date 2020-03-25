@@ -9,3 +9,7 @@ Is a thing of calamity.
 
 Modularity is modularly the only probability.
 -Goutham R
+
+
+Simply put we are trying to build a narrative based experience here.
+-Srijan Sivakumar
